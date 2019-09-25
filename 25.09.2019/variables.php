@@ -20,3 +20,7 @@ echo 'Email: <a href="mailto:'.$email.'">'.$email.'</a><br>';
 echo 'Vanus: '.$vanus.'<br>';
 echo 'Pikkus: '.$pikkus.'<br>';
 echo 'Kaal: '.$kaal.'<br>';
+
+// dünaamiline muutujate defineerimine
+$kehamassiIndeks = $kaal / ($pikkus * $pikkus);
+echo 'Kehamassiindeks on '.$kehamassiIndeks.'<br>';
