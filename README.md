@@ -30,4 +30,11 @@ Lükka lokaalsest repost kirjeldus kausreposse (näiteks github.com)
 git push -uf origin master
 ```
 Siin origin on ühenduse nimi ja master on peaharu
+
+* git kasutamine läbi PhpStormi
+```
+VCS -> Commit (Ctrl + K)
+```
+Antud kanas vali vajalikud failid, mis on vaja antud commitiga seostada, lisa commiti sõne ja vajuta Commit või Commit and Push
+
  
