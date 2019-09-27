@@ -37,4 +37,5 @@ VCS -> Commit (Ctrl + K)
 ```
 Antud kanas vali vajalikud failid, mis on vaja antud commitiga seostada, lisa commiti sõne ja vajuta Commit või Commit and Push
 
- 
+### 27.09.2019
+* PHP sisefunktsioonide kasutamine -  [loe veel](https://github.com/AnnaKarutina/pa_vs19_1/tree/master/27.09.2019)
