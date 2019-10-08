@@ -39,3 +39,7 @@ Antud kanas vali vajalikud failid, mis on vaja antud commitiga seostada, lisa co
 
 ### 27.09.2019
 * PHP sisefunktsioonide kasutamine -  [loe veel](https://github.com/AnnaKarutina/pa_vs19_1/tree/master/27.09.2019)
+### 07.09.2019
+* Operaatorid - [Aritmeetilised operaatorid](https://www.metshein.com/course/php-alused/)
+### 08.09.2019
+* Tingimuslaused - [Tingimuslaused](https://www.metshein.com/course/php-alused/)
