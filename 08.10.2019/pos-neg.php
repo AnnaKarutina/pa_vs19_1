@@ -20,8 +20,11 @@ echo '<br>';
 if($number > 0) {
     // work if number > than 0
     echo $number.' on positiivne<br>';
-} else {
+} else if($number < 0) {
+    // work if number < than 0
     echo $number.' on negatiivne<br>';
+} else {
+    echo $number.' on null<br>';
 }
 // the program is continue
 echo 'programmi lõpp';
