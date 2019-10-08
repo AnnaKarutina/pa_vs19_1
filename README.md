@@ -43,3 +43,4 @@ Antud kanas vali vajalikud failid, mis on vaja antud commitiga seostada, lisa co
 * Operaatorid - [Aritmeetilised operaatorid](https://www.metshein.com/course/php-alused/)
 ### 08.09.2019
 * Tingimuslaused - [Tingimuslaused](https://www.metshein.com/course/php-alused/)
+* Kodutöö - [Tingimuslaused](https://www.metshein.com/course/php-alused/) - Ülesanded 3-5
