@@ -9,7 +9,12 @@ for($row = 1; $row < 6; $row++){
   if($row < 10) {
     echo '&nbsp;&nbsp;';
   }
-  for($col = 1; $col <= (6-$row); $col++){
+  // spaces
+  for($col = 1; $col <= (5-$row); $col++){
+    echo '&nbsp;&nbsp;&nbsp;';
+  }
+  // asteriks
+  for($col = 1; $col <= $row; $col++){
     echo '*';
     echo '&nbsp;';
   }
