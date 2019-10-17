@@ -14,12 +14,7 @@ for($row = 1; $row < 6; $row++){
     echo '&nbsp;&nbsp;&nbsp;';
   }
   // asteriks 1
-  for($col = 1; $col <= $row; $col++){
-    echo '*';
-    echo '&nbsp;';
-  }
-  // asteriks 2
-  for($col = 1; $col < $row; $col++){
+  for($col = 1; $col <= (2*$row-1); $col++){
     echo '*';
     echo '&nbsp;';
   }
