@@ -13,8 +13,13 @@ for($row = 1; $row < 6; $row++){
   for($col = 1; $col <= (5-$row); $col++){
     echo '&nbsp;&nbsp;&nbsp;';
   }
-  // asteriks
+  // asteriks 1
   for($col = 1; $col <= $row; $col++){
+    echo '*';
+    echo '&nbsp;';
+  }
+  // asteriks 2
+  for($col = 1; $col < $row; $col++){
     echo '*';
     echo '&nbsp;';
   }
