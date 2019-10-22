@@ -13,10 +13,9 @@ function tableHeader($val1, $val2, $val3, $val4) {
     echo '<table border="1">';
       echo '<thead>';
         echo '<tr>';
-          echo '<th>'.$val1.'</th>';
-          echo '<th>'.$val2.'</th>';
-          echo '<th>'.$val3.'</th>';
-          echo '<th>'.$val4.'</th>';
+        for($col = 1; $col < 5; $col++) {
+          echo '<th>' . ${val.$col} . '</th>';
+        }
         echo '</tr>';
       echo '</thead>';
     echo '</table>';
